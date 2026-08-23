@@ -1,21 +1,48 @@
-# 💫 About Me:
-I'm a data engineer focused on building reliable production pipelines, backend systems, and workflow automation.<br><br>I currently work on operational data systems involving numerical weather and ocean forecasting, where pipelines need to process large multidimensional datasets reliably and deliver production outputs on schedule.<br><br>My work spans:<br><br>- Data pipelines and workflow orchestration with Python, Prefect, and Bash<br>- Production systems on Linux, Docker, and HPC/SLURM<br>- Multidimensional and time-series data using Xarray, Zarr, Dask, and NetCDF<br>- Object storage and cloud-oriented workflows with S3 and AWS<br>- Backend services, automation, monitoring, and operational tooling<br>- Geospatial, meteorological, and oceanographic data processing
+## Suwignyo (Tyo) Prasetyo
 
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2176-0530)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=sRqgW3gAAAAJ)
+[![Twitter](https://img.shields.io/twitter/follow/TEGNicholasCode?logo=twitter&style=flat-square)](https://twitter.com/TEGNicholasCode)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tegnicholas.bsky.social)
+[![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=flat-square&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/tomnicholas)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tom-nicholas/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyo_suwignyo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyo-suwignyo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyo.suwignyo@gmail.com) 
+### Hi there 👋
 
-# 💻 Tech Stack:
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tyorus&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tyorus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tyorus&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+I'm a data engineer focused on building reliable production pipelines, backend systems, and workflow automation.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I currently work on operational data systems involving numerical weather and ocean forecasting, where pipelines need to process large multidimensional datasets reliably and deliver production outputs on schedule.
 
----
-[![](https://komarev.com/ghpvc/?username=tyorus&icon=0&color=0)](https://visitcount.itsvg.in)
+My work spans:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Data pipelines and workflow orchestration with Python, Prefect, and Bash
+- Production systems on Linux, Docker, and HPC/SLURM
+- Multidimensional and time-series data using Xarray, Zarr, Dask, and NetCDF
+- Object storage and cloud-oriented workflows with S3 and AWS
+- Backend services, automation, monitoring, and operational tooling
+- Geospatial, meteorological, and oceanographic data processing
+
+### Career history
+
+I currently work at [Earthmover](https://earthmover.io/), a Public Benefit Corporation building "GitHub for data" on top of the open source Pangeo stack.
+
+Previously I worked at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation](https://www.nature.com/articles/d41586-022-00018-5) building [tools](https://github.com/CWorthy-ocean/C-Star) to verify that [ocean-based carbon dioxide removal](https://carbonplan.org/research/oae-efficiency) approaches would be effective and safe.
+
+Before that I worked as a Research Software Engineer and Oceanographer at Columbia University. I worked with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
+
+Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing and sharing large amounts of scientific data.
+
+### Projects
+
+Some projects I'm particularly proud of / excited about and my role in them:
+- [Xarray](https://github.com/pydata/xarray) (core maintainer)
+- [Xarray-DataTree](https://github.com/xarray-contrib/datatree) (original author, now folded into xarray [upstream]([https://docs.xarray.dev/en/stable/user-guide/hierarchical-data.html](https://xarray.dev/blog/datatree)))
+- [VirtualiZarr](https://github.com/zarr-developers/VirtualiZarr) (original author and lead developer)
+- [Icechunk](https://github.com/earth-mover/icechunk) (maintainer)
+- [Cubed](https://github.com/cubed-dev/cubed) (cheerleader and author of the [Cubed-Xarray](https://github.com/cubed-dev/cubed-xarray) integration)
+- [FROST](https://github.com/TomNicholas/FROST) (originator)
+
+I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
+
+You can reach me at tom at earthmover dot io
