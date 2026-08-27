@@ -18,7 +18,7 @@ I'm a data engineer focused on building reliable production pipelines, backend s
 
 ![Cursor](https://img.shields.io/badge/cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tyorus&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=tyorus&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tyorus&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -27,6 +27,6 @@ I'm a data engineer focused on building reliable production pipelines, backend s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=tyorus&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=tyorus&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
