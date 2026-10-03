@@ -1,5 +1,5 @@
 ### 👋 Hi there:
-I'm a data engineer focused on building reliable production pipelines, backend systems, and workflow automation.<br><br>I currently work on operational data systems involving numerical weather and ocean forecasting, where pipelines need to process large multidimensional datasets reliably and deliver production outputs on schedule.<br><br>My work spans:<br><br>- Data pipelines and workflow orchestration with Python, Prefect, and Bash<br>- Production systems on Linux, Docker, and HPC/SLURM<br>- Multidimensional and time-series data using Xarray, Zarr, Dask, and NetCDF<br>- Object storage and cloud-oriented workflows with S3 and AWS<br>- Backend services, automation, monitoring, and operational tooling<br>- Geospatial, meteorological, and oceanographic data processing
+I'm a data engineer, backend developer, and metocean practitioner.
 
 
 ### 🌐 Socials:
